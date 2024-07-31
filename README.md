@@ -1,6 +1,6 @@
 ## PolkadotKit for iOS, Android - Device Native Light Client Wrappers
 
-1.1 Overview
+## Overview
 
 Implement Device Native light client packages for Apple and Android product platforms.
 
@@ -8,15 +8,15 @@ Current light client solutions require either third-party frameworks or a JavaSc
 
 This will complete the currently missing first solution to [embedding smoldot into a mobile application](https://github.com/smol-dot/smoldot?tab=readme-ov-file#can-i-embed-smoldot-into-a-mobile-application-or-an-application-in-general).
 
-1.2 Details
+## Details
 
 Produce Swift and Kotlin packages, as well as the Rust scaffolding code and bindings needed to call into the smoldot Rust library.
 
-<< IMAGE >>
+![PolkadotKit](https://github.com/user-attachments/assets/7d2a8409-ee48-41dc-89a8-0e153d42d79c)
 
 This project will implement the code bounded by the purple box in the diagram above.
 
-1.3 Implementation
+## Final Implementation
 
 **Smoldot Swift**
 
