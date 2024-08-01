@@ -27,8 +27,8 @@ This project will implement the code bounded by the purple box in the diagram ab
 
 **Smoldot Kotlin**
 
-* Published to [Maven Central Repository](https://swiftpackageindex.com/finsig/smoldot-swift).
+* Published to [Maven Central Repository](https://central.sonatype.com/artifact/io.finsig/smoldotkotlin).
 * [GitHub repository](https://github.com/finsig/smoldot-kotlin)
 * [Reference documentation](https://finsig.github.io/smoldot-kotlin/)
-* [Example App](https://github.com/finsig/smoldot-kotlin/smoldotkotlinexample)
+* [Example App](https://github.com/finsig/smoldot-kotlin/tree/main/smoldotkotlinexample)
 
