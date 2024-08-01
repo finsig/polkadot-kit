@@ -16,7 +16,7 @@ Produce Swift and Kotlin packages, as well as the Rust scaffolding code and bind
 
 This project will implement the code bounded by the purple box in the diagram above.
 
-## Final Implementation
+## Implementation
 
 **Smoldot Swift**
 
